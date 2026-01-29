@@ -79,4 +79,48 @@ It discusses turning strings into numbers with parseInt/parseFloat, Number(), un
 24. Demo: Dates [24 of 51] Shows various ways to make, change, and show dates.
 
 25. Boolean logic with if statements [25 of 51] Explains the nature of boolean values, usage of comparison and logical operators (&&, ||, !), and chaining of if/else/if, else constructs to make decisions.
- 
+ 26. Demo: Boolean logic with if statements [26 of 51] Demonstrates conditional code execution via if statements in real situations.
+
+27. Boolean logic with switch and other syntax [27 of 51] Discusses switch statements for multi, case branching, and also covers the use of ternary operator and truthy/falsy values.
+
+28. Demo: Boolean logic with switch and other syntax [28 of 51] Illustrates how switch, ternary, and alternative conditional patterns are used.
+
+29. Creating arrays [29 of 51] Covers the basic concept of array creation (literals, Array constructor), indexing, length, and simple operations.
+
+30. Demo: Creating arrays [30 of 51] Demonstrates the process of making and using arrays with concrete examples.
+
+31, 32. Properties of arrays (probably refers to methods like push/pop, shift/unshift, etc.) Delves into familiar array methods that allow adding/removing elements and the basics of looping through an array.
+33, 34. More array operations (slice, splice, concat, etc.)
+
+Shows advanced array mutation and non, mutation methods.
+
+35, 36. Loops (for, while, for...of, for...in)
+
+This video explains Iteration over arrays/objects with different loop types.  This video explains object literals, property accessing (dot/bracket), adding/deleting properties.
+
+37, 38. Functions
+
+This video explains about funtions defining methods in objects.
+
+39, 40. Arrow and Annonymus functions
+
+This video explains Function declaration, expressions, parameters, return values.
+
+41, 42. Advanced functions (arrow functions, scope, closures)
+
+,This video explains Arrow syntax, lexical this, and closure concepts.
+
+43, 44. Objects in javascript
+This video explains various objects its uses in javascript.
+
+45, 46. Promises for long running operations
+This video explains the varios promises,Modules (import/export) The ES6 module system for organizing code.
+
+47, 48. Asynchronous JavaScript (callbacks, promises) This video explains Callback hell, Promise essentials (then/catch).
+Async/await This video explains The new async syntax based on promises for writing neater code.
+
+49,50. Package management
+It illustrates package managements, Higher, order functions / array iterators (map, filter, reduce) This video explains Functional programming techniques for working on data.
+
+51. Final episode / wrapping up This video goes over the major points, recommends the next steps (like React/Node projects), and motivates to keep learning.
+
